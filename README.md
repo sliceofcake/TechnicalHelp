@@ -14,7 +14,7 @@ from the top menu bar. The shortcut for it is command+option+I.
 For one version of Firefox running on Windows, it can be found at  
 [Menu Icon]>Developer>Web Console  
 from the in-window menu bar. The shortcut for it is control+shift+K.  
-One you're in the JavaScript Console, you'll likely find a thing text input box at the bottom. You can type things in here. When the textbox has focus and you hit the enter/return key on your keyboard, it should run whatever you have in the box as JavaScript. At the time of writing, Firefox disallows pasting into this textbox until you type in "allow pasting".  
+One you're in the JavaScript Console, you'll likely find a thin text input box at the bottom. You can type things in here. When the textbox has focus and you hit the enter/return key on your keyboard, it should run whatever you have in the box as JavaScript. At the time of writing, Firefox disallows pasting into this textbox until you type in "allow pasting".  
   
   
   
